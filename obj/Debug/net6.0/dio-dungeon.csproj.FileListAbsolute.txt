@@ -1,0 +1,15 @@
+C:\Users\LKZ\Documents\Projetos\dio-dungeon\bin\Debug\net6.0\dio-dungeon.exe
+C:\Users\LKZ\Documents\Projetos\dio-dungeon\bin\Debug\net6.0\dio-dungeon.deps.json
+C:\Users\LKZ\Documents\Projetos\dio-dungeon\bin\Debug\net6.0\dio-dungeon.runtimeconfig.json
+C:\Users\LKZ\Documents\Projetos\dio-dungeon\bin\Debug\net6.0\dio-dungeon.dll
+C:\Users\LKZ\Documents\Projetos\dio-dungeon\bin\Debug\net6.0\dio-dungeon.pdb
+C:\Users\LKZ\Documents\Projetos\dio-dungeon\obj\Debug\net6.0\dio-dungeon.csproj.AssemblyReference.cache
+C:\Users\LKZ\Documents\Projetos\dio-dungeon\obj\Debug\net6.0\dio-dungeon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LKZ\Documents\Projetos\dio-dungeon\obj\Debug\net6.0\dio-dungeon.AssemblyInfoInputs.cache
+C:\Users\LKZ\Documents\Projetos\dio-dungeon\obj\Debug\net6.0\dio-dungeon.AssemblyInfo.cs
+C:\Users\LKZ\Documents\Projetos\dio-dungeon\obj\Debug\net6.0\dio-dungeon.csproj.CoreCompileInputs.cache
+C:\Users\LKZ\Documents\Projetos\dio-dungeon\obj\Debug\net6.0\dio-dungeon.dll
+C:\Users\LKZ\Documents\Projetos\dio-dungeon\obj\Debug\net6.0\refint\dio-dungeon.dll
+C:\Users\LKZ\Documents\Projetos\dio-dungeon\obj\Debug\net6.0\dio-dungeon.pdb
+C:\Users\LKZ\Documents\Projetos\dio-dungeon\obj\Debug\net6.0\dio-dungeon.genruntimeconfig.cache
+C:\Users\LKZ\Documents\Projetos\dio-dungeon\obj\Debug\net6.0\ref\dio-dungeon.dll
